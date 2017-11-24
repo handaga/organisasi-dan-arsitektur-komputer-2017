@@ -3,7 +3,7 @@ Catatan kuliah semester Ganjil 2017
 
 # Remidi UTS:
 
-Silahkan download soal UTS [UTS](), hasilnya di upload di github masing-masing (user = NIM).
+Silahkan download soal UTS [UTS](https://github.com/handaga/organisasi-dan-arsitektur-komputer-2017/blob/master/bana-uts-if-OrganisasidanArsitekturKomputer.docx), hasilnya di upload di github masing-masing (user = NIM).
 
 
 
