@@ -1,6 +1,12 @@
 # organisasi-dan-arsitektur-komputer-2017
 Catatan kuliah semester Ganjil 2017
 
+# Remidi UTS:
+
+Silahkan download soal UTS [UTS](), hasilnya di upload di github masing-masing (user = NIM).
+
+
+
 # Assigment-01 (international Class) 
 
 
