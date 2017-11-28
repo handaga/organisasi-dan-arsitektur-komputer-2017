@@ -1,6 +1,9 @@
 # organisasi-dan-arsitektur-komputer-2017
 Catatan kuliah semester Ganjil 2017
 
+
+[ebook ref:](https://gen.lib.rus.ec)
+
 # Remidi UTS (24 November 2017):
 
 Silahkan download soal UTS [UTS](https://github.com/handaga/organisasi-dan-arsitektur-komputer-2017/blob/master/bana-uts-if-OrganisasidanArsitekturKomputer.docx), buatlah jawaban yang benar dan upload di github masing-masing (user = NIM).
