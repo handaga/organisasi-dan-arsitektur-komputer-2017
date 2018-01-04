@@ -1,4 +1,14 @@
 # organisasi-dan-arsitektur-komputer-2017
+
+# Kisi-kisi UAS Ganjil 2017/2018
+
+## 1. Unit Input/Output
+
+## 2. Operasi perhitungan dalam ALU
+
+
+
+
 Catatan kuliah semester Ganjil 2017
 
 
