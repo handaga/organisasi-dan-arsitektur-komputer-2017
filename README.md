@@ -10,7 +10,8 @@ open cheatsheet ( 1 hal- A4)
 
 ## 2. Representasi bilangan dan Operasi perhitungan dalam ALU
 
-============================================
+--------------------------------------------
+
 
 
 
