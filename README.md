@@ -6,7 +6,7 @@
 
 ## 1. Unit Input/Output
 
-## 2. Operasi perhitungan dalam ALU
+## 2. Representasi bilangan dan Operasi perhitungan dalam ALU
 
 ============================================
 
