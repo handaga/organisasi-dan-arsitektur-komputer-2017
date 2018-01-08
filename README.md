@@ -4,7 +4,7 @@
 # Kisi-kisi UAS Ganjil 2017/2018
 --------------------------------------------
 
-open cheatsheet ( 1 hal- A4)
+open cheatsheet ( 1 lembar - A4)
 
 ## 1. Unit Input/Output
 
